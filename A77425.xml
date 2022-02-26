@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief dialogue between creditor &amp; prisoner; clearly setting forth how both of them have been shamefully abused for many years: with a short and easie way to free all prisoners for debt, with a just care of all creditors; and fully satisfactory to all such who have any religion or morall honesty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77425</idno>
+            <idno type="STC">Wing B4574</idno>
+            <idno type="STC">Thomason E713_5</idno>
+            <idno type="STC">ESTC R207158</idno>
+            <idno type="EEBO-CITATION">99866228</idno>
+            <idno type="PROQUEST">99866228</idno>
+            <idno type="VID">166695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166695)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E713[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief dialogue between creditor &amp; prisoner; clearly setting forth how both of them have been shamefully abused for many years: with a short and easie way to free all prisoners for debt, with a just care of all creditors; and fully satisfactory to all such who have any religion or morall honesty.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb, dwelling in Thamestreet, over-against Baynards-Castle,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1653,.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "September 9th".:.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debtor and creditor --  Early works to 1800.</term>
+               <term>Debt, Imprisonment for --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166695:1" rendition="simple:additions"/>
+            <p>A BRIEF DIALOGUE BETWEEN Creditor &amp; Priſoner; Clearly ſetting forth How both of them have been ſhame<g ref="char:EOLhyphen"/>fully abuſed for many Years:</p>
+            <p>With a ſhort and eaſie way to free all Priſoners for Debt, with a juſt care of all Creditors; And fully ſatisfactory to all ſuch who have any Reli<g ref="char:EOLhyphen"/>gion or morall Honeſty.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Newcomb,</hi> dwel<g ref="char:EOLhyphen"/>ling in <hi>Thameſtreet,</hi> over-againſt <hi>Baynards</hi>-Caſtle, <hi>Anno Dom.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:166695:2"/>
+            <pb n="3" facs="tcp:166695:2"/>
+            <head>A brief Dialogue between Cre<g ref="char:EOLhyphen"/>ditor and Priſoner; clearly ſetting forth how both of them have been ſhame<g ref="char:EOLhyphen"/>fully abuſed for many years.</head>
+            <head type="sub">Together with a ſhort and eaſie way to free all Priſoners for Debt; with a juſt care of all Creditors; and fully ſatisfactory to all ſuch who have any Religion or Mo<g ref="char:EOLhyphen"/>rall honeſty.</head>
+            <sp>
+               <stage>Enter <hi>Creditor.</hi>
+               </stage>
+               <p>GOod morning to you, Sir, having a little buſineſs this way, I thought good to call upon you for that lit<g ref="char:EOLhyphen"/>tle Money, it is a great ſumm in my Purſe; I have not troubled you for it this Twelve month.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>You have troubled me as much as you can, and you would have me take it for a Curteſie that you can trouble me no farther.</p>
+            </sp>
+            <sp>
+               <speaker>Creditor.</speaker>
+               <p>I know you are able, you have grea<g ref="char:EOLhyphen"/>ter ſums Owing unto you, which you may have when you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I confeſs I have Money abroad, pay<g ref="char:EOLhyphen"/>able at certain places upon Demand; but you have both tyed my Legs and my hands by your Execution, that I can not goe to demand it, without an eſcape, nor can you give me leave without quitting your Debt.</p>
+            </sp>
+            <sp>
+               <speaker>Creditor.</speaker>
+               <p>Truly I am ſorry for it, but my At<g ref="char:EOLhyphen"/>torney over-ruled me to arreſt you, and to get you in execution; I am ſure it coſt me 4 <hi>l.</hi> but
+<pb n="4" facs="tcp:166695:3"/>I have conſidered of it ſince, and am well con<g ref="char:EOLhyphen"/>tented to free you, and take your own Bond for a year: for this is not the way.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>This courteſſe had been ſeaſonable before I came to priſon; you know I deſired of your Atturney but ſix months, and he would not give a day: But now it comes too late, I have ſo many Executions upon me at other Mens ſuits, one Action of 500 <hi>l.</hi> for 20 <hi>l.</hi> debt; ano<g ref="char:EOLhyphen"/>ther of 200 <hi>l.</hi> for 10 <hi>l.</hi> debt; and by thoſe that owe me greater ſums.</p>
+            </sp>
+            <sp>
+               <speaker>Cred</speaker>
+               <p>But how cometh this abuſe, this is un<g ref="char:EOLhyphen"/>ſufferable, out upon it, out upon it; muſt I ſtay till all this is cleraed.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Do you wonder at this; let me tell you, impriſoning of mens perſons was never inten<g ref="char:EOLhyphen"/>ded to help any man to his own, but to ſatisfie envious Creditors, and to undor peeviſh Deb<g ref="char:EOLhyphen"/>tors. It was made by Lawyers for their own gain; and Creditors have loſt many a Million by it, for it made them careleſs of ſecurity by Eſtate, and the word was, <hi>He will not lye by it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>But what is to be done in this caſe?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Sit down a little, and you ſhall hear good ſport; doe you ſee thoſe two that come hither, one is a covetous and envious Creditor, the other a cunning Knave and his Priſoner.</p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>I doe not mean to trouble my ſelf with any more Journeys, if you will pay me, ſo, if not?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>What doth it come to, charges and all.</p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>About 500 <hi>l.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:166695:3"/>
+               <speaker>Priſ.</speaker>
+               <p>Make it up 600 <hi>l.</hi> and I will pay you in Three years.</p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>I will not truſt you for a Penny more.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Then I will not pay you a penny more.</p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>Sirrah, I have you in Execution, and my Atrurney tells me you ſhall not ſtirr before you pay me.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Your Atturneys a Knave, and you are a Fool; goe ask your Atturney, whether I ſhall not eat nor drink, nor ſleep till I pay you, un<g ref="char:EOLhyphen"/>leſs he tells you ſo, he tells you nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>You are a cheating Knave if you doe not pay me Sirrah.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>You are the cheating Knave, and have cheated your ſelf, and paid your ſelf by your Execution, the Law is at an end, and you are ſatisfied in Law.</p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>No, ſirrah, you knave I am not ſatisfied; you ſhall lye here till you ro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and I will have your bones.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ</speaker>
+               <p>Now you put me in minde of death, Ile make my Will, and according unto Law (which you ſo much honor) I muſt give you by way of Legacy a bale of Dice in full ſatisfaction of your excellent Exeuction, and all the cuteſle I will afford you, is, you ſhall take your choice whether you will have high Cuts or low Cuts; and let me adviſe you, that the firſt two men you play with be your Scrivener and your Atturney; for if you doe not winn your Money again of them, they have cheated you moſt baſely; your Scrivener knew I would not pay you: I gave him 5 <hi>l.</hi> for the 100 <hi>l.</hi> and when you asked what
+<pb n="6" facs="tcp:166695:4"/>Eſtate I had, he told you I would not lie by it for twice the ſumm: Next your Atturney cry<g ref="char:EOLhyphen"/>ed, Arreſt him, lay him in the Jayle, get him into Exeuction, and then your Money is ſure; he meant the Four pound he had of you was fure; he could not mean the 100 <hi>l.</hi> debt; I know he farther told you, it is no matter what charges you are at, I ſhould pay all at laſt: And how<g ref="char:EOLhyphen"/>ever the reall Debt was but 100 <hi>l.</hi> yet I was in 5<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 <hi>l.</hi> Execution to you, and that I had no re<g ref="char:EOLhyphen"/>medy at Law, or in Chancery after Execution, be it never ſo unjuſtly obtained. What do you think of this truth, who is the cheating Knave now, I that cozen you of 100 <hi>l.</hi> or you that would cozen me of 500 <hi>l.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>I think in my conſcience you all joined together to cozen me: What a pack of Villains are here diſcovered, that ever any honeſt Man ſhould fall amongſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I hope you do not mean your ſelf, and all the reſt may be true enough, but you have got it a hundred times over where you met with time rous Fools, that would pay what you asked, ra<g ref="char:EOLhyphen"/>ther then endure to goe to priſon.</p>
+            </sp>
+            <sp>
+               <speaker>Cred.</speaker>
+               <p>I am ſure enough to get this up again ſomewhere, for we are all promiſed, that if thoſe that have Eſtates will not ſpeedily pay us our Executions without diſpute how the ſums come due, that if they refuſe or perform not, then we ſhall appoint others to ſell their Eſtates and pay us.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>And we are told, That we have now a Parliament of Religious and Charitable Men
+<pb n="7" facs="tcp:166695:4"/>who will ſpeedily take care, that Creditors be not defrauded of their juſt Debts, nor Priſo<g ref="char:EOLhyphen"/>ners oppreſſed contrary unto the Lawes of God and Nature, and the Fundamental Laws of this Commonwealth.</p>
+            </sp>
+            <p>The Law of God ſaith, an Eye for an Eye, a Hand for a Hand, not two for one; much leſs All for Droſs and cheating Wares. Again, give <hi>Caeſar</hi> his due in his own Coin, if thou haſt it, (which is thy Eſtate) but if thou haſt it not <hi>Cae<g ref="char:EOLhyphen"/>ſor</hi> muſt loſe his due.</p>
+            <p>The Law of Nature ſaith, That the Body ought to preſerve the Members: And every Priſoner is a member of the Commonwealth.</p>
+            <p>The Fundamentall Lawes of the Common<g ref="char:EOLhyphen"/>wealth, ſaith, That no mans perſon ought to be impriſoned for Debt; and there is great reaſon why one Free born, ſhould not impliſon ano<g ref="char:EOLhyphen"/>ther equally Free born with himſelf.</p>
+            <p>For in the time of Villenage (before <hi>Magna Charta</hi>) the Lord could not impriſon any other Villain but only his own; nor could he aſſigne that power over unto any Third perſon, as it is ordinary in theſe times.</p>
+         </div>
+         <div type="instructions_for_prisoners">
+            <pb n="8" facs="tcp:166695:5"/>
+            <head>Brief Inſtructions how to ſet all Priſoners for Debt at Liberty, with a juſt care of all Creditors.</head>
+            <p>ALL the people of the Commonwealth are compre<g ref="char:EOLhyphen"/>hended under the capacity of Debtor and Creditor; and all Debtors are comprhended under one of theſe three Heads following.
+<list>
+                  <item>1. The firſt have greater Eſtates then Debts.</item>
+                  <item>2. The ſecond have eſtates, but their debts are greater.</item>
+                  <item>3. The third have no eſtates above the value of 5 l.</item>
+               </list>
+            </p>
+            <p>And if it ſhall pleaſe the Parliament to make an Act that all under the firſt head ſhall pay their juſt debts with reaſonable conſideration for uſe; and that all incumbran<g ref="char:EOLhyphen"/>ces upon Land ſhall be freed by ready money, that it may be ſold.</p>
+            <p>That all under the ſecond head ſhall have a competen<g ref="char:EOLhyphen"/>ey for livelyhood, and the remainder to be equally divi<g ref="char:EOLhyphen"/>ded among the Creditors.</p>
+            <p>Laſtly, That all under the third head be freed.</p>
+            <p>This great work will in a ſhort time, and with great eaſe be accompliſhed with this addition in the Act.</p>
+            <p>That all Creditors ſhall upon Oath, and under a pe<g ref="char:EOLhyphen"/>nalty make to demand but what they ſhall prove to be due.</p>
+            <p>And that all priſoners ſhall under an oath and a penalty truly ſet forth what eſtates they have, and what debts they truly owe.</p>
+            <p>And the ſooner this ſhall be acted, it will be better for the Creditor. For all priſoners conceive it juſt, that when they pay their debts, their Impriſonment ſhould be conſidered in diſcount, where the death payeth the debt: For in that caſe impriſonment was in full ſatisfaction; and ſo part of the debt is payed by part of the impriſonment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
